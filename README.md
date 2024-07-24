@@ -5,6 +5,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&color=EEEEEE)
 ![rabbitmq](https://img.shields.io/badge/-rabbitmq-090909?style=for-the-badge&logo=rabbitmq&color=EEEEEE)
 ![clickhouse](https://img.shields.io/badge/-clickhouse-090909?style=for-the-badge&logo=clickhouse&color=EEEEEE)
+![JENKINS](https://img.shields.io/badge/-JENKINS-090909?style=for-the-badge&logo=JENKINS&color=EEEEEE)
+
 
 ## Профиль на Profi.ru
 
@@ -12,5 +14,5 @@
 
 ## Контакты
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/maxkuz)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&color=EEEEEE)](https://t.me/maxkuz)
 
