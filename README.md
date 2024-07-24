@@ -1,8 +1,8 @@
 ## Стек технологий
 
 ![PHP 8](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&color=EEEEEE)
-![Laravel 9](https://img.shields.io/badge/-Laravel 9-090909?style=for-the-badge&logo=Laravel&color=EEEEEE)
-![Laravel 11](https://img.shields.io/badge/-Laravel 11-090909?style=for-the-badge&logo=Laravel&color=EEEEEE)
+![Laravel 9](https://img.shields.io/badge/-Laravel9-090909?style=for-the-badge&logo=Laravel&color=EEEEEE)
+![Laravel 11](https://img.shields.io/badge/-Laravel11-090909?style=for-the-badge&logo=Laravel&color=EEEEEE)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&color=EEEEEE)
 ![rabbitmq](https://img.shields.io/badge/-rabbitmq-090909?style=for-the-badge&logo=rabbitmq&color=EEEEEE)
 ![clickhouse](https://img.shields.io/badge/-clickhouse-090909?style=for-the-badge&logo=clickhouse&color=EEEEEE)
