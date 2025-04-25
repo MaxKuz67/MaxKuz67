@@ -9,6 +9,7 @@
 
 ## Мои проекты
 prtt.ru - Самописный движок, PHP 8
+
 gdegeo.ru - Laravel 12, Tailwind Css
 
 ## Профиль на Profi.ru
